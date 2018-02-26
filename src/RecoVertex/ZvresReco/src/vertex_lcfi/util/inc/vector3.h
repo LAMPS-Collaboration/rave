@@ -11,6 +11,7 @@
  #else 	 
  #include <boost/numeric/ublas/config.hpp> 	 
  #endif
+#include <boost/serialization/array_wrapper.hpp>
 #include <boost/numeric/ublas/vector.hpp>
 #include <boost/numeric/ublas/io.hpp>
 #include <cmath>
